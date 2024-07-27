@@ -1,3 +1,6 @@
+> [!WARNING]
+> **NEED TO UPDATE!**
+
 # Parser-of-olx
 
 My project is about parsing data from "olx.ua/". Firstly, you have to paste in the console link of the category of the advertisements, from which you want to get information.
